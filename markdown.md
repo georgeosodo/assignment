@@ -18,13 +18,13 @@ HTML | Structuring the page contents
 CSS | For styling the document
 
 
+*Below is an image of the site*
+
 ![GitHub Logo](/image.png)
 Format: ![Alt Text](url)
 
 
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+[link to site](http://github.com)
 
 
 
